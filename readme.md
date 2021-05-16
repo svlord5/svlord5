@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sv_lord5</h1>
-<h3 align="center">A passionate frontend developer from India, I like to code Discord JS</h3>
+<h3 align="center">A passionate frontend developer from India, I like to code Discord JS, I Like to Play Roblox.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svlord5rbx&label=Profile%20views&color=0e75b6&style=flat" alt="svlord5rbx" /> </p>
 
