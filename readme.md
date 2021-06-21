@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sv_lord5" target="blank"><img src="https://img.shields.io/twitter/follow/sv_lord5?logo=twitter&style=for-the-badge" alt="sv_lord5" /></a> </p>
 
-- 🔭 I’m currently working on [Wace Util](https://github.com/svlord5rbx/WaceUtil-Remake.git)
+- 🔭 I’m currently working on [Wace Util](https://github.com/svlord5rbx/WaceUtil-Canary)
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with [Wace Util](https://github.com/svlord5rbx/WaceUtil-Remake.git)
+- 🤝 I’m looking for help with [Wace Util](https://github.com/svlord5rbx/WaceUtil-Canary)
 
 - 💬 Ask me about **JavaScript**
 
