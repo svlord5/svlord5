@@ -1,34 +1,47 @@
-<h1 align="center">Hi 👋, I'm sv_lord5</h1>
-<h3 align="center">A passionate frontend developer from India, I like to code Discord JS, I Like to Play Roblox.</h3>
+<h1 align="center">👋Hello There, I'm sv_lord5! </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=svlord5rbx&label=Profile%20views&color=0e75b6&style=flat" alt="svlord5rbx" /> </p>
+### About Me
+- Indian Developer
+- Tech Enthusiast
+- Favourite Games: **[ROBLOX](https://www.roblox.com/home)** - [Emergency Response: Liberty County](https://www.roblox.com/games/2534724415/PASS-SALE-Emergency-Response-Liberty-County?), [Arsenal](https://www.roblox.com/games/286090429/Arsenal?), [Mad City](https://www.roblox.com/games/1224212277/Mad-City?), [Phantom Forces](https://www.roblox.com/games/292439477/Phantom-Forces?).
+- Currently Learning: **JavaScript**
+- My Most Projects are Closed Source.
+- He/Him
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svlord5rbx" alt="svlord5rbx" /></a> </p>
+<details>
+<summary>
+  <a href="https://github.com/svlord5rbx"><img src="https://img.shields.io/badge/-Get%20in%20Touch-808080?style=for-the-badge" /></a>
+</summary>
 
-<p align="left"> <a href="https://twitter.com/sv_lord5" target="blank"><img src="https://img.shields.io/twitter/follow/sv_lord5?logo=twitter&style=for-the-badge" alt="sv_lord5" /></a> </p>
+**Discord:** [sv_lord5#5555](https://discord.com/users/834888738919153684)
 
-- 🔭 I’m currently working on [Wace Util](https://github.com/svlord5rbx/WaceUtil-Canary)
+[![Twitter Badge](https://img.shields.io/badge/-@sv_lord5-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sv_lord5)](https://twitter.com/sv_lord5)
 
-- 🌱 I’m currently learning **JavaScript**
+</details>
 
-- 🤝 I’m looking for help with [Wace Util](https://github.com/svlord5rbx/WaceUtil-Canary)
+<details>
+<summary>
+  <a href="https://github.com/svlord5rbx"><img src="https://img.shields.io/badge/-Language%20And%20Tools-808080?style=for-the-badge" /></a>
+</summary>
+  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/svlord5rbx)](https://github.com/svlord5rbx)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/svlord5rbx)](https://github.com/svlord5rbx) 
 
-- 💬 Ask me about **JavaScript**
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/svlord5rbx)](https://github.com/svlord5rbx) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/svlord5rbx)](https://github.com/svlord5rbx)
+</details>
 
-- 📫 How to reach me **supervisionlord5@gmail.com**
+<details>
+<summary>
+  <a href="https://github.com/svlord5rbx"><img src="https://img.shields.io/badge/-statistics-808080?style=for-the-badge" /></a>
+</summary>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GalaxyDanMC&label=Profile%20views&color=0e75b6&style=flat" alt="svlord5rbx" /> </p>
 
-- ⚡ Fun fact **I kinda do typos**
+![GalaxyDanMC's github stats](https://github-readme-stats.vercel.app/api?username=svlord5rbxC&show_icons=true&hide_border=true&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sv_lord5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="sv_lord5" height="30" width="40" /></a>
-</p>
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=svlord5rbx&show_icons=true&locale=en&layout=compact" alt="svlord5rbx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&locale=en" alt="svlord5rbx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svlord5rbx&" alt="svlord5rbx" /></p>
+<!--
+Made by [sv_lord5#5555](https://discord.com/users/834888738919153684) with help of [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
+-->
