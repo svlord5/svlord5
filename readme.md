@@ -36,7 +36,7 @@
   <a href="https://github.com/svlord5rbx"><img src="https://img.shields.io/badge/-statistics-808080?style=for-the-badge" /></a>
 </summary>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GalaxyDanMC&label=Profile%20views&color=0e75b6&style=flat" alt="svlord5rbx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=svlord5rbx&label=Profile%20views&color=0e75b6&style=flat" alt="svlord5rbx" /> </p>
 
 ![GalaxyDanMC's github stats](https://github-readme-stats.vercel.app/api?username=svlord5rbxC&show_icons=true&hide_border=true&theme=dark)
 
