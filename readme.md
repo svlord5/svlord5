@@ -3,7 +3,7 @@
 ### About Me
 - Indian Developer
 - Tech Enthusiast
-- Favourite Games: **[ROBLOX](https://www.roblox.com/home)** - [Emergency Response: Liberty County](https://www.roblox.com/games/2534724415/PASS-SALE-Emergency-Response-Liberty-County?), [Arsenal](https://www.roblox.com/games/286090429/Arsenal?), [Mad City](https://www.roblox.com/games/1224212277/Mad-City?), [Phantom Forces](https://www.roblox.com/games/292439477/Phantom-Forces?).
+- Mainly focusing on Studies.
 - Currently Learning: **JavaScript**
 - My Most Projects are Closed Source.
 - He/Him
