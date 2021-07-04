@@ -14,6 +14,7 @@
 </summary>
 
 **Discord:** [sv_lord5#5555](https://discord.com/users/834888738919153684)
+**About Me:** https://about.me/sv_lord5
 
 [![Twitter Badge](https://img.shields.io/badge/-@sv_lord5-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sv_lord5)](https://twitter.com/sv_lord5)
 
