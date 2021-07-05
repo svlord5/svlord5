@@ -1,24 +1,19 @@
-<h1 align="center">👋Hello There, I'm sv_lord5! </h1>
+# sv_lord5 | svlord5rbx
 
-### About Me
-- Indian Developer
-- Tech Enthusiast
-- Mainly focusing on Studies.
-- Currently Learning: **JavaScript**
-- My Most Projects are Closed Source.
-- He/Him
+- **Website:** https://about.me/sv_lord5
+- **Discord:** [sv_lord5#5555](https://discord.com/users/834888738919153684)
+- **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5)
+- **Email:** supervisionlord5@gmail.com
 
-<details>
-<summary>
-  <a href="https://github.com/svlord5rbx"><img src="https://img.shields.io/badge/-Get%20in%20Touch-808080?style=for-the-badge" /></a>
-</summary>
+## ? Who Am I?
+> He/Him. I'm 15y/o Indian Developer and Programmer enthusiast currently experienced in **Javascript** and **Discord.js** Library. My most of projects are closed source.
 
-**Discord:** [sv_lord5#5555](https://discord.com/users/834888738919153684)
-**About Me:** https://about.me/sv_lord5
+## </> What I'm Currently Working For?
+> I'm currently Administrating [🌟SpaceWaCe Community🌟](https://discord.gg/Z9W6J8w), Some Private Servers. I also moderate some servers. 1Year of Discord Server Management experience. Still continously learning Moderation.
 
-[![Twitter Badge](https://img.shields.io/badge/-@sv_lord5-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sv_lord5)](https://twitter.com/sv_lord5)
+## </> On How Many Discord Bot Project's Am Working?
+> I'm Currently working on **3** Bots. [`All My Projects are Closed Source.`]
 
-</details>
 
 <details>
 <summary>
