@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svlord5rbx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## </> GitHub Stats
-![svlord5rbx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&theme=synthwave&count_private=true)
+![svlord5rbx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs)
  
 ###### Credits  to @DaStormer and @GalaxyDanMC.
 <!--
