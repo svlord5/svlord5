@@ -23,7 +23,8 @@
 
 ## </> GitHub Stats
 ![svlord5rbx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&theme=radical&count_private=true)
-
+ 
+###### Credits  to @DaStormer and @GalaxyDanMC.
 <!--
 Made by [sv_lord5#5555](https://discord.com/users/834888738919153684) with help of [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
 -->
