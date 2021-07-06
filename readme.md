@@ -14,6 +14,11 @@
 ## </> On How Many Discord Bot Project's Am Working?
 > I'm Currently working on **3** Bots. [`All My Projects are Closed Source.`]
 
+![svlord5rbx's GitHub stats](https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&theme=radical&count_private=true)
+
+[![svlord5rbx's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=svlord5rbx)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svlord5rbx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>
