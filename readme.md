@@ -14,6 +14,9 @@
 ## </> On How Many Discord Bot Project's Am Working?
 > I'm Currently working on **3** Bots. [`All My Projects are Closed Source.`]
 
+## **Listening to:**
+
+[![Spotify](https://novatorem-anaheimducks16.vercel.app/api/spotify)](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb?si=uxC80WJwSN6t6D6dFTPsPA)
 ## </> Language's & Tools
 - Javascript
 - Node.js
