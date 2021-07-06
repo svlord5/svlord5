@@ -23,9 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svlord5rbx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![svlord5rbx's github stats](https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&hide_border=true&theme=dark)
-
-</details>
 
 <!--
 Made by [sv_lord5#5555](https://discord.com/users/834888738919153684) with help of [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
