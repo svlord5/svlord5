@@ -14,8 +14,6 @@
 ## </> On How Many Discord Bot Project's Am Working?
 > I'm Currently working on **3** Bots. [`All My Projects are Closed Source.`]
 
-![svlord5rbx's GitHub stats](https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&theme=radical&count_private=true)
-
 ## </> Language's & Tools
 - Javascript
 - Node.js
@@ -23,6 +21,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svlord5rbx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## </> GitHub Stats
+![svlord5rbx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&theme=radical&count_private=true)
 
 <!--
 Made by [sv_lord5#5555](https://discord.com/users/834888738919153684) with help of [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
