@@ -16,7 +16,7 @@
 
 ## **Listening to:**
 
-[![Spotify](https://novatorem-sv_lord5rbx.vercel.app/api/spotify)](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb?si=uxC80WJwSN6t6D6dFTPsPA)
+[![Spotify](https://novatorem-svlord5rbx.vercel.app/api/spotify)](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb?si=uxC80WJwSN6t6D6dFTPsPA)
 
 ## Discord Profile
 [![Discord Profile](https://mydiscord.tolfix.com/?userId=834888738919153684)]
