@@ -14,20 +14,14 @@
 ## </> On How Many Discord Bot Project's Am Working?
 > I'm Currently working on **3** Bots. [`All My Projects are Closed Source.`]
 
-## **Listening to:**
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/sv_lord5)
 
 ## Discord Profile
-![Discord Profile](https://mydiscord.tolfix.com/?userId=834888738919153684)
+![Discord Profile](https://mydiscord.tolfix.com/?userId=834888738919153684&)
 
 ## </> Language's & Tools
 - Javascript
 - Node.js
 - Git
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svlord5rbx)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## </> GitHub Stats
 ![svlord5rbx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs)
