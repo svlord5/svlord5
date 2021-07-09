@@ -16,7 +16,7 @@
 
 
 ## Discord Profile
-![Discord Profile](https://mydiscord.tolfix.com/?userId=)
+![Discord Profile](https://mydiscord.tolfix.com/?userId=834888738919153684)
 
 ## </> Language's & Tools
 - Javascript
