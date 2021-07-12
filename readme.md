@@ -5,6 +5,8 @@
 - **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5)
 - **Email:** supervisionlord5@gmail.com
 
+![Discord](https://discord.c99.nl/widget/theme-2/834888738919153684.png)
+
 ## ? Who Am I?
 > He/Him. I'm 15y/o Indian Developer and Programmer enthusiast currently experienced in **Javascript** and **Discord.js** Library. My most of projects are closed source.
 
@@ -19,6 +21,8 @@
 - Node.js
 - Git
 
+
+  
 ## </> GitHub Stats
 ![svlord5rbx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs)
  
