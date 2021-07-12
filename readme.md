@@ -14,10 +14,6 @@
 ## </> On How Many Discord Bot Project's Am Working?
 > I'm Currently working on **3** Bots. [`All My Projects are Closed Source.`]
 
-
-## Discord Profile
-![Discord Profile](https://mydiscord.tolfix.com/?userId=834888738919153684)
-
 ## </> Language's & Tools
 - Javascript
 - Node.js
@@ -29,4 +25,8 @@
 ###### Credits  to @DaStormer and @GalaxyDanMC.
 <!--
 Made by [sv_lord5#9355](https://discord.com/users/834888738919153684) with help of [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
+
+
+## Discord Profile
+![Discord Profile](https://mydiscord.tolfix.com/?userId=834888738919153684)
 -->
