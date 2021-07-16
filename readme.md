@@ -1,7 +1,7 @@
 # sv_lord5 | svlord5rbx
 
 - **Website:** https://about.me/sv_lord5
-- **Discord:** [sv_lord5#9355](https://discord.com/users/834888738919153684)
+- **Discord:** [sv_lord5#5555](https://discord.com/users/834888738919153684)
 - **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5)
 - **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
 - **Email:** supervisionlord5@gmail.com
@@ -29,7 +29,7 @@
  
 ###### Credits  to @DaStormer and @GalaxyDanMC.
 <!--
-Made by [sv_lord5#9355](https://discord.com/users/834888738919153684) with help of [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
+Made by [sv_lord5#5555](https://discord.com/users/834888738919153684) with help of [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
 
 
 ## Discord Profile
