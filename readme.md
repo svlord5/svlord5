@@ -15,7 +15,7 @@
 > I'm currently Administrating [🌟SpaceWaCe Community🌟](https://discord.gg/Z9W6J8w), Some Private Servers. I also moderate some servers. 1Year of Discord Server Management experience. Still continously learning Moderation.
 
 ## </> On How Many Discord Bot Project's Am Working?
-> I'm Currently working on **3** Bots. [`All My Projects are Closed Source.`]
+> I'm Currently working on **2** Bots. [`All My Projects are Closed Source.`]
 
 ## </> Language's & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
