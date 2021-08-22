@@ -1,10 +1,10 @@
-# sv_lord5 | svlord5rbx
+# sv_lord5 | TheAlphaPixi
 
 - **Website:** https://about.me/sv_lord5
-- **Discord:** [sv_lord5#5555](https://discord.com/users/834888738919153684)
+- **Discord:** [sv_lord5#3250](https://discord.com/users/834888738919153684)
 - **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5)
 - **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
-- **Email:** supervisionlord5@gmail.com
+- **Email:** `supervisionlord5@gmail.com`
 
 ![Discord](https://discord.c99.nl/widget/theme-2/834888738919153684.png)
 
