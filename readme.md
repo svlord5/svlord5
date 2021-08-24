@@ -1,4 +1,4 @@
-# sv_lord5 | TheAlphaPixi
+# sv_lord5 | TheAlphaPixi5
 
 - **Website:** https://about.me/sv_lord5
 - **Discord:** [sv_lord5#3250](https://discord.com/users/834888738919153684)
@@ -30,7 +30,7 @@
 
   
 ## </> GitHub Stats
-![svlord5rbx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svlord5rbx&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs)
+![svlord5rbx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAlphaPixi5&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs,stars)
  
 ###### Also, Credits to **[DaStormer](https://github.com/DaStormer)** and **[GalaxyDanMC](https://github.com/GalaxyDanMC)**.
 <!--
