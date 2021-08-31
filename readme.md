@@ -1,9 +1,9 @@
 # sv_lord5 | TheAlphaPixi5
 
 - **Website:** https://about.me/sv_lord5
-- **Discord:** [sv_lord5#3250](https://discord.com/users/834888738919153684)
-- **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5)
-- **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
+- **Discord:** [sv_lord5#3250](https://discord.com/users/834888738919153684) |  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/834888738919153684) 
+- **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5) | [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sv_lord5)
+- **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb) [![Twitter](https://img.shields.io/badge/Spotify-1DB954?style=for-the-spotify&logo=spotify&logoColor=white)](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
 - **Email:** `supervisionlord5@gmail.com`
 
 ![Discord](https://discord.c99.nl/widget/theme-2/834888738919153684.png)
