@@ -15,9 +15,9 @@
 - Funfact is I keep learning new things.
 
 ## </> What I'm Currently Working For? </>
-- I'm currently Administrating [🌟SpaceWaCe Community🌟](https://discord.gg/Z9W6J8w).
 - Cyberheist Wiki Fandom and Discord Moderator. **[Fandom](https://cyberheist.fandom.com/wiki/User:Svlord5)** | **[Discord](https://discord.gg/maSFWdPW7m)**
 - Some Private Servers. I also Moderate some servers. 1 year of Discord Server Management experience. 
+-  Former Admin for [🌟SpaceWaCe Community🌟](https://discord.gg/Z9W6J8w).
 
 ## </> On How Many Discord Bot Project's Am Working? </>
 - I'm Currently working on **2** Bots. [`All My Projects are Closed Source.`]
