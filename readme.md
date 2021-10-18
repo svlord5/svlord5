@@ -1,6 +1,5 @@
 # sv_lord5 | TheAlphaPixi5
 
-- **Website:** https://about.me/sv_lord5
 - **Discord:** [sv_lord5#3250](https://discord.com/users/834888738919153684) |  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/834888738919153684) 
 - **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5) | [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sv_lord5)
 - **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb) [![Twitter](https://img.shields.io/badge/Spotify-1DB954?style=for-the-spotify&logo=spotify&logoColor=white)](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
@@ -15,7 +14,9 @@
 - Funfact is I keep learning new things.
 
 ## </> What I'm Currently Working For? </>
-- Cyberheist Wiki Fandom and Discord Moderator. **[Fandom](https://cyberheist.fandom.com/wiki/User:Svlord5)** | **[Discord](https://discord.gg/maSFWdPW7m)**
+- **Dyno Trial Support Staff**, I work for https://dyno.gg/. A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier. Dyno is used on over 5.7 million servers, we invite you to try it out and hope you enjoy!
+( [Invite Dyno](https://dyno.gg/invite) | [Dyno Dashboard](https://www.dyno.gg/) | [Get Dyno Premium](https://www.dyno.gg/premium) | [Dyno Guide/Wiki](https://wiki.dyno.gg/) )
+- **Cyberheist Wiki Fandom and Wiki Discord Moderator**. **[Fandom](https://cyberheist.fandom.com/wiki/User:Svlord5)** | **[Discord](https://discord.gg/maSFWdPW7m)**
 - Some Private Servers. I also Moderate some servers. 1 year of Discord Server Management experience. 
 -  Former Admin for [🌟SpaceWaCe Community🌟](https://discord.gg/Z9W6J8w).
 
@@ -35,7 +36,7 @@
 ###### Also, Credits to **[DaStormer](https://github.com/DaStormer)** and **[GalaxyDanMC](https://github.com/GalaxyDanMC)**.
 <!--
 Made by [sv_lord5#5555](https://discord.com/users/834888738919153684) with help of [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
-
+- **Website:** https://about.me/sv_lord5
 
 ## Discord Profile
 ![Discord Profile](https://mydiscord.tolfix.com/?userId=834888738919153684)
