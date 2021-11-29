@@ -14,7 +14,7 @@
 - Funfact is I keep learning new things.
 
 ## </> What I'm Currently Working For? </>
-- **Dyno Trial Support Staff**, I work for https://dyno.gg/. A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier. Dyno is used on over 5.7 million servers, we invite you to try it out and hope you enjoy!
+- **Dyno Support Staff**, I work for https://dyno.gg/. A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier. Dyno is used on over 5.7 million servers, we invite you to try it out and hope you enjoy!
 ( [Invite Dyno](https://dyno.gg/invite) | [Dyno Dashboard](https://www.dyno.gg/) | [Get Dyno Premium](https://www.dyno.gg/premium) | [Dyno Guide/Wiki](https://wiki.dyno.gg/) )
 - **Cyberheist Wiki Fandom and Wiki Discord Moderator**. **[Fandom](https://cyberheist.fandom.com/wiki/User:Svlord5)** | **[Discord](https://discord.gg/maSFWdPW7m)**
 - Some Private Servers. I also Moderate some servers. 1 year of Discord Server Management experience. 
