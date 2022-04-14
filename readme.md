@@ -9,7 +9,7 @@
 
 ## </> ? Who Am I ? </>
 - He/Him. 
-- I'm 15y/o Indian Developer and Programmer Enthusiast currently experienced in **Javascript** and **Discord.js** Library.
+- I'm 16y/o Indian Developer and Programmer Enthusiast currently experienced in **Javascript** and **Discord.js** Library.
 - My most of projects are closed source. 
 - Funfact is I keep learning new things.
 
@@ -18,7 +18,7 @@
 ( [Invite Dyno](https://dyno.gg/invite) | [Dyno Dashboard](https://www.dyno.gg/) | [Get Dyno Premium](https://www.dyno.gg/premium) | [Dyno Guide/Wiki](https://wiki.dyno.gg/) )
 - **Cyberheist Wiki Fandom and Wiki Discord Moderator**. **[Fandom](https://cyberheist.fandom.com/wiki/User:Svlord5)** | **[Discord](https://discord.gg/maSFWdPW7m)**
 - Some Private Servers. I also Moderate some servers. 1 year of Discord Server Management experience. 
--  Former Admin for [🌟SpaceWaCe Community🌟](https://discord.gg/Z9W6J8w).
+-  Former Admin for 🌟SpaceWaCe Community🌟.
 
 ## </> On How Many Discord Bot Project's Am Working? </>
 - I'm Currently working on **2** Bots. [`All My Projects are Closed Source.`]
