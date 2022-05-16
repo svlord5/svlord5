@@ -4,6 +4,7 @@
 - **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5) | [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sv_lord5)
 - **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb) [![Twitter](https://img.shields.io/badge/Spotify-1DB954?style=for-the-spotify&logo=spotify&logoColor=white)](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
 - **Email:** `supervisionlord5@gmail.com`
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/834888738919153684)](https://discord.com/users/834888738919153684)
 
 ## </> ? Who Am I ? </>
