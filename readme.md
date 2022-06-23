@@ -5,8 +5,6 @@
 - **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb) [![Twitter](https://img.shields.io/badge/Spotify-1DB954?style=for-the-spotify&logo=spotify&logoColor=white)](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
 - **Email:** `supervisionlord5@gmail.com`
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/834888738919153684)](https://discord.com/users/834888738919153684)
-
 ## </> ? Who Am I ? </>
 - He/Him. 
 - I'm 16y/o Indian Developer and Programmer Enthusiast currently experienced in **Javascript** and **Discord.js** Library.
@@ -31,7 +29,7 @@
 
   
 ## </> GitHub Stats
-![svlord5rbx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAlphaPixi5&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs,stars)
+![Anonsv5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anonsv5&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs,stars)
  
 ###### Also, Credits to **[DaStormer](https://github.com/DaStormer)** and **[GalaxyDanMC](https://github.com/GalaxyDanMC)**.
 <!--
@@ -39,6 +37,10 @@ Made by [sv_lord5#5555](https://discord.com/users/834888738919153684) with help 
 - **Website:** https://about.me/sv_lord5
 
 ## Discord Profile
+
+
+[![Discord Presence](https://api.lanyard.rest/v1/users/834888738919153684)](https://discord.com/users/834888738919153684)
 ![Discord Profile](https://mydiscord.tolfix.com/?userId=834888738919153684)
-![Discord](https://discord.c99.nl/widget/theme-2/834888738919153684.png)
+
+
 -->
