@@ -5,6 +5,7 @@
 - **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb) [![Twitter](https://img.shields.io/badge/Spotify-1DB954?style=for-the-spotify&logo=spotify&logoColor=white)](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
 - **Email:** `supervisionlord5@gmail.com`
 
+
 ## </> ? Who Am I ? </>
 - He/Him. 
 - I'm 16y/o Indian Developer and Programmer Enthusiast currently experienced in **Javascript** and **Discord.js** Library.
@@ -12,10 +13,11 @@
 - Funfact is I keep learning new things.
 
 ## </> What I'm Currently Working For? </>
-- **Dyno Support Staff**, I work for https://dyno.gg/. A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier. Dyno is used on over 5.7 million servers, we invite you to try it out and hope you enjoy!
-( [Invite Dyno](https://dyno.gg/invite) | [Dyno Dashboard](https://www.dyno.gg/) | [Get Dyno Premium](https://www.dyno.gg/premium) | [Dyno Guide/Wiki](https://wiki.dyno.gg/) )
+- **Dyno Support Staff**, I work for https://dyno.gg/. A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier. Dyno is used on over 6 million servers, we invite you to try it out and hope you enjoy!
+( [Invite Dyno](https://dyno.gg/invite) | [Dyno Dashboard](https://www.dyno.gg/) | [Get Dyno Premium](https://www.dyno.gg/premium) )
+- **Circle Bot Staff**, I work for https://circlebot.xyz/. The easiest way to bring moderation, logging, reaction roles, and more to your community. 
 - **Cyberheist Wiki Fandom and Wiki Discord Moderator**. **[Fandom](https://cyberheist.fandom.com/wiki/User:Svlord5)** | **[Discord](https://discord.gg/maSFWdPW7m)**
-- Some Private Servers. I also Moderate some servers. 1 year of Discord Server Management experience. 
+- Some Private Servers. I also Moderate some servers. 2 year of Discord Server Management experience. 
 -  Former Admin for 🌟SpaceWaCe Community🌟.
 
 ## </> On How Many Discord Bot Project's Am Working? </>
