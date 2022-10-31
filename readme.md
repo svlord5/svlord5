@@ -1,9 +1,10 @@
-# sv_lord5 | TheAlphaPixi5
+# sv_lord5 | anonsv5
 
 - **Discord:** [sv_lord5#3250](https://discord.com/users/834888738919153684) |  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/834888738919153684) 
 - **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5) | [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sv_lord5)
 - **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb) [![Twitter](https://img.shields.io/badge/Spotify-1DB954?style=for-the-spotify&logo=spotify&logoColor=white)](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
 - **Email:** `supervisionlord5@gmail.com`
+- **Website** (🚧 still working on it though) [Visit here](https://anonsv5.github.io/)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/834888738919153684?theme=dark)](https://discord.com/users/834888738919153684)
 
@@ -22,7 +23,7 @@
 -  Former Admin for 🌟SpaceWaCe Community🌟.
 
 ## </> On How Many Discord Bot Project's Am Working? </>
-- I'm Currently working on **2** Bots. [`All My Projects are Closed Source.`]
+- 😄 i'd like to keep it private for now.
 
 ## </> Language's & Tools </>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
