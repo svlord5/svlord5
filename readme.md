@@ -6,8 +6,6 @@
 - **Email:** `supervisionlord5@gmail.com`
 - **Website** (🚧 still working on it though) [Visit here](https://anonsv5.github.io/)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/834888738919153684?theme=dark)](https://discord.com/users/834888738919153684)
-
 ## </> ? Who Am I ? </>
 - He/Him. 
 - I'm 16y/o Indian Developer and Programmer Enthusiast currently experienced in **Javascript** and **Discord.js** Library.
