@@ -31,7 +31,7 @@
 
   
 ## </> GitHub Stats
-![Anonsv5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anonsv5&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs,stars)
+![Anonsv5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonsv55&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs,stars)
  
 ###### Also, Credits to **[DaStormer](https://github.com/DaStormer)** and **[GalaxyDanMC](https://github.com/GalaxyDanMC)**.
 <!--
