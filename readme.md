@@ -8,7 +8,7 @@
 
 # About Me
 - They/Them
-- I'm 16y/o Indian Developer and Programmer Enthusiast currently experienced in **Javascript** and **Discord.js** Library.
+- I'm 17y/o Indian Developer and Programmer Enthusiast currently experienced in **Javascript** and **Discord.js** Library.
 - My most of projects are closed source. 
 - Funfact is I keep learning new things.
 
