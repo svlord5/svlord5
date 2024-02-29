@@ -1,4 +1,4 @@
-# Hey, welcome 
+# Hey, welcome 👋
 
 - **Discord:** [@sv_lord5](https://discord.com/users/834888738919153684) 
 - **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5) 
@@ -12,15 +12,15 @@
 Sup!! Hope you doing good! I'm 17 years old from India. I'm learning Javascript as forgetting is my common thing 😁
 
 # Places I work at...
-## ![Boomerang](https://media.discordapp.net/attachments/1132226322173788241/1137257743724597268/whitewdwd.png?width=50&height=50) [Software Engineer](https://discord.gg/boomerang) - Boomerang
+## [Software Engineer](https://discord.gg/boomerang) - Boomerang
 Boomerang is a simple, customizable, and useful bot with a number of features to better manage your staff team, and community with ease. We are dedicated to staff management and helping you manage your community with ease.
-## ![Trident](https://media.discordapp.net/attachments/1041482814203375717/1041483694470340679/Trident-Color_Backdrop.png?width=50&height=50 "https://tridentbot.xyz/") [Management](https://tridentbot.xyz/team) — Trident | https://tridentbot.xyz/
+## [Management](https://trident.bot/) — Trident | https://tridentbot.xyz/
 Trident is a bot made for managing your roleplay servers. We integrate many features such as shift logging, moderation logging, activity tracking and more.
-## ![Circle](https://media.discordapp.net/attachments/1025399139544076399/1080934507714187356/Circle_High_Res_Logo_PNGArtboard_3_3.png?width=50&height=50 "https://circlebot.xyz/") [Staff](https://circlebot.xyz/team) — Circle | https://circlebot.xyz/
+## [Senior Staff](https://circlebot.xyz/) — Circle | https://circlebot.xyz/
 A simple moderation bot. The easiest way to bring moderation, logging, reaction roles, and more to your Discord community.
 
  ### Previous 
- ## ![Dyno](https://media.discordapp.net/attachments/1080936032247222403/1080936097401552976/Dyno.png?width=50&height=50 "https://dyno.gg/") Support Staff — Dyno | https://dyno.gg/
+ ## Support Staff — Dyno | https://dyno.gg/
 A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier. Dyno is used on over 6 million servers, we invite you to try it out and hope you enjoy it!
 - **Cyberheist Wiki Fandom and Wiki Discord Moderator**. **[Fandom](https://cyberheist.fandom.com/wiki/User:Svlord5)** | **[Discord](https://discord.gg/maSFWdPW7m)**
 - Some Private Servers. I also Moderate some servers. 2 years of Discord server management experience
