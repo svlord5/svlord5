@@ -8,19 +8,28 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T6S08IM)
 
-# About Me
-Sup!! Hope you doing good! I'm 17 years old from India. I'm learning Javascript as forgetting is my common thing 😁
+<div align="center">
+  <h1><strong>About Me</strong></h1>
+ <p>Hey!! Hope you doing good! I'm 18 years old from India. I'm learning Javascript as forgetting is my common thing 😁</p>
+</div>
 
-# Places I work at...
-## [Software Engineer](https://discord.gg/boomerang) - Boomerang
+<div align="center">
+  <h1><strong>Places I work at...</strong></h1>
+</div>
+
+### [Software Engineer](https://discord.gg/boomerang) — Boomerang | https://boomerangbot.xyz/
 Boomerang is a simple, customizable, and useful bot with a number of features to better manage your staff team, and community with ease. We are dedicated to staff management and helping you manage your community with ease.
-## [Management](https://trident.bot/) — Trident | https://tridentbot.xyz/
+### [Management](https://trident.bot/) — Trident | https://tridentbot.xyz/
 Trident is a bot made for managing your roleplay servers. We integrate many features such as shift logging, moderation logging, activity tracking and more.
-## [Senior Staff](https://circlebot.xyz/) — Circle | https://circlebot.xyz/
+### [Senior Staff](https://circlebot.xyz/) — Circle | https://circlebot.xyz/
 A simple moderation bot. The easiest way to bring moderation, logging, reaction roles, and more to your Discord community.
 
- ### Previous 
- ## Support Staff — Dyno | https://dyno.gg/
+ <div align="center">
+  <h2><strong>Previous</strong></h2>
+ <p></p>
+</div>
+
+ ### Support Staff — Dyno | https://dyno.gg/
 A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier. Dyno is used on over 6 million servers, we invite you to try it out and hope you enjoy it!
 - **Cyberheist Wiki Fandom and Wiki Discord Moderator**. **[Fandom](https://cyberheist.fandom.com/wiki/User:Svlord5)** | **[Discord](https://discord.gg/maSFWdPW7m)**
 - Some Private Servers. I also Moderate some servers. 2 years of Discord server management experience
