@@ -17,11 +17,11 @@
   <h1><strong>Places I work at...</strong></h1>
 </div>
 
-### [Software Engineer](https://discord.gg/boomerang) — Boomerang | https://boomerangbot.xyz/
+### [Software Engineer](https://discord.gg/boomerang) — Boomerang | [boomerangbot.xyz](https://boomerangbot.xyz/)
 Boomerang is a simple, customizable, and useful bot with a number of features to better manage your staff team, and community with ease. We are dedicated to staff management and helping you manage your community with ease.
-### [Management](https://trident.bot/) — Trident | https://tridentbot.xyz/
+### [Management](https://trident.bot/) — Trident | [trident.bot](https://trident.bot/)
 Trident is a bot made for managing your roleplay servers. We integrate many features such as shift logging, moderation logging, activity tracking and more.
-### [Senior Staff](https://circlebot.xyz/) — Circle | https://circlebot.xyz/
+### [Senior Staff](https://circlebot.xyz/) — Circle | [circlebot.xyz](https://circlebot.xyz/)
 A simple moderation bot. The easiest way to bring moderation, logging, reaction roles, and more to your Discord community.
 
  <div align="center">
