@@ -1,7 +1,7 @@
 # Hey, welcome 👋
 
 - **Discord:** [@sv_lord5](https://discord.com/users/834888738919153684) 
-- **Twitter:** [@sv_lord5](https://twitter.com/sv_lord5) 
+- **X (formerly Twitter):** [@sv_lord5](https://x.com/sv_lord5) 
 - **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
 - **Email:** [supervisionlord5@gmail.com](mailto:supervisionlord5@gmail.com)
 - **Website** [anonsv5.me](https://www.anonsv5.me/)
