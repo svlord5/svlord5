@@ -17,8 +17,6 @@
   <h1><strong>Places I work at...</strong></h1>
 </div>
 
-### [Software Engineer](https://discord.gg/boomerang) — Boomerang | [boomerangbot.xyz](https://boomerangbot.xyz/)
-Boomerang is a simple, customizable, and useful bot with a number of features to better manage your staff team, and community with ease. We are dedicated to staff management and helping you manage your community with ease.
 ### [Management](https://trident.bot/) — Trident | [trident.bot](https://trident.bot/)
 Trident is a bot made for managing your roleplay servers. We integrate many features such as shift logging, moderation logging, activity tracking and more.
 ### [Senior Staff](https://circlebot.xyz/) — Circle | [circlebot.xyz](https://circlebot.xyz/)
@@ -28,6 +26,9 @@ A simple moderation bot. The easiest way to bring moderation, logging, reaction 
   <h2><strong>Previous</strong></h2>
  <p></p>
 </div>
+
+### [Software Engineer](https://discord.gg/boomerang) — Boomerang | [bmrg.app](https://bmrg.app/)
+Boomerang is a simple, customizable, and useful bot with a number of features to better manage your staff team, and community with ease. We are dedicated to staff management and helping you manage your community with ease.
 
  ### Support Staff — Dyno | https://dyno.gg/
 A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier. Dyno is used on over 6 million servers, we invite you to try it out and hope you enjoy it!
