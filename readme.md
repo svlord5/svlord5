@@ -27,7 +27,7 @@ A simple moderation bot. The easiest way to bring moderation, logging, reaction 
  <p></p>
 </div>
 
-### [Software Engineer](https://discord.gg/boomerang) — Boomerang | [bmrg.app](https://bmrg.app/)
+### Software Engineer — Boomerang | [bmrg.app](https://bmrg.app/)
 Boomerang is a simple, customizable, and useful bot with a number of features to better manage your staff team, and community with ease. We are dedicated to staff management and helping you manage your community with ease.
 
  ### Support Staff — Dyno | https://dyno.gg/
