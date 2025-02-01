@@ -30,7 +30,7 @@ A simple moderation bot. The easiest way to bring moderation, logging, reaction 
 ### Software Engineer — Boomerang | [bmrg.app](https://bmrg.app/)
 Boomerang is a simple, customizable, and useful bot with a number of features to better manage your staff team, and community with ease. We are dedicated to staff management and helping you manage your community with ease.
 
- ### Support Staff — Dyno | https://dyno.gg/
+ ### Support Staff — Dyno | [dyno.gg](https://dyno.gg/)
 A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier. Dyno is used on over 6 million servers, we invite you to try it out and hope you enjoy it!
 - **Cyberheist Wiki Fandom and Wiki Discord Moderator**. **[Fandom](https://cyberheist.fandom.com/wiki/User:Svlord5)** | **[Discord](https://discord.gg/maSFWdPW7m)**
 - Some Private Servers. I also Moderate some servers. 2 years of Discord server management experience
