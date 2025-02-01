@@ -3,7 +3,7 @@
 - **Discord:** [@sv_lord5](https://discord.com/users/834888738919153684) 
 - **X (formerly Twitter):** [@sv_lord5](https://x.com/sv_lord5) 
 - **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
-- **Email:** [supervisionlord5@gmail.com](mailto:supervisionlord5@gmail.com)
+- **Email:** [hi@anonsv5.me](mailto:hi@anonsv5.me)
 - **Website** [anonsv5.me](https://www.anonsv5.me/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T6S08IM)
