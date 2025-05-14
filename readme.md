@@ -25,7 +25,7 @@ A simple moderation bot. The easiest way to bring moderation, logging, reaction 
  <p></p>
 </div>
 
-### Management) — Trident | [trident.bot](https://trident.bot/)
+### Management — Trident | [trident.bot](https://trident.bot/)
 Trident is a bot made for managing your roleplay servers. We integrate many features such as shift logging, moderation logging, activity tracking and more.
 
 ### Software Engineer — Boomerang | [bmrg.app](https://bmrg.app/)
