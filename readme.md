@@ -1,68 +1,77 @@
 # Hey, welcome 👋
 
-- **Discord:** [@sv_lord5](https://discord.com/users/834888738919153684) 
-- **X (formerly Twitter):** [@sv_lord5](https://x.com/sv_lord5) 
-- **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
-- **Email:** [hi@anonsv5.me](mailto:hi@anonsv5.me)
-- **Website** [anonsv5.me](https://www.anonsv5.me/)
+> I'm Suraj (aka **sv_lord5**) — a passionate self-learner, Discord community builder, and software enthusiast from 🇮🇳.
+
+### 📬 Contact Me
+
+- 🎮 **Discord:** [@sv_lord5](https://discord.com/users/834888738919153684)
+- 🐦 **X (Twitter):** [@sv_lord5](https://x.com/sv_lord5)
+- 🎧 **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
+- ✉️ **Email:** [hi@anonsv5.me](mailto:hi@anonsv5.me)
+- 🌐 **Website:** [anonsv5.me](https://www.anonsv5.me)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T6S08IM)
 
-<div align="center">
-  <h1><strong>About Me</strong></h1>
- <p>Hey!! Hope you doing good! I'm 18 years old from India. I'm learning Javascript as forgetting is my common thing 😁</p>
-</div>
+---
 
 <div align="center">
-  <h1><strong>Places I work at...</strong></h1>
+  <div align="center">
+
+<h2>🧠 About Me</h2>
+Hi, I'm <strong>Suraj</strong> — a 19-year-old software developer, cybersecurity student, and community manager from <strong>Hyderabad, India</strong>.  
+I'm currently pursuing a <strong>B.Tech in Computer Science (Cybersecurity)</strong>.
+
+I’m passionate about building tools that improve online communities — from Discord moderation bots to building cybersecurity projects.  
+With over <strong>2 years of experience</strong> managing large-scale Discord servers and contributing to projects like <strong>Dyno</strong>, <strong>Boomerang</strong>, and <strong>Circle</strong>, I love combining development with community-focused problem-solving.
+
+I learn best by doing — whether it’s experimenting with <strong>JavaScript, TypeScript, React, and Node.js</strong>,  
+or diving into the world of ethical hacking and infosec through <strong>TryHackMe</strong> and real-world CTF challenges.
+
+Outside of tech, you’ll find me vibing to music on Spotify or connecting with like-minded folks on Discord and X.
+<strong>Let’s build something cool together. 🚀</strong>
 </div>
 
-### [Senior Staff](https://circlebot.xyz/) — Circle | [circlebot.xyz](https://circlebot.xyz/)
-A simple moderation bot. The easiest way to bring moderation, logging, reaction roles, and more to your Discord community.
+---
 
- <div align="center">
-  <h2><strong>Previous</strong></h2>
- <p></p>
-</div>
+## 🏢 Where I Work / Have Worked
 
-### Management — Trident | [trident.bot](https://trident.bot/)
-Trident is a bot made for managing your roleplay servers. We integrate many features such as shift logging, moderation logging, activity tracking and more.
+### 👨‍💼 [Senior Staff @ Circle](https://circlebot.xyz/)
+> Bringing simple, efficient moderation and automation to Discord communities.  
+> 🔗 [circlebot.xyz](https://circlebot.xyz/)
 
-### Software Engineer — Boomerang | [bmrg.app](https://bmrg.app/)
-Boomerang is a simple, customizable, and useful bot with a number of features to better manage your staff team, and community with ease. We are dedicated to staff management and helping you manage your community with ease.
+### 🛠️ Software Engineer — [Boomerang](https://bmrg.app/)
+> Customizable staff and community management tools made for Discord.
 
- ### Support Staff — Dyno | [dyno.gg](https://dyno.gg/)
-A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier. Dyno is used on over 6 million servers, we invite you to try it out and hope you enjoy it!
-- **Cyberheist Wiki Fandom and Wiki Discord Moderator**. **[Fandom](https://cyberheist.fandom.com/wiki/User:Svlord5)** | **[Discord](https://discord.gg/maSFWdPW7m)**
-- Some Private Servers. I also Moderate some servers. 2 years of Discord server management experience
--  Former Admin for 🌟SpaceWaCe Community🌟.
-<!--
-# Are you working on any project?
-🤷‍♂️
+### 🧾 Management — [Trident](https://trident.bot/)
+> Helping roleplay servers manage activity, moderation, and more.
 
-# Languages & Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
+### 🤝 Support Staff — [Dyno](https://dyno.gg/)
+> Trusted by over 6 million servers. Helping users with configuration and moderation tools.
 
-  |  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/834888738919153684) 
-  | [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sv_lord5)
-   [![Twitter](https://img.shields.io/badge/Spotify-1DB954?style=for-the-spotify&logo=spotify&logoColor=white)](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
-   
-## </> GitHub Stats
-![Anonsv5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonsv55&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs,stars)
- 
-###### Also, Credits to **[DaStormer](https://github.com/DaStormer)** and **[GalaxyDanMC](https://github.com/GalaxyDanMC)**.
+### 🧑‍💻 Moderator — [Cyberheist Wiki](https://cyberheist.fandom.com/wiki/User:Svlord5) + [Discord](https://discord.gg/maSFWdPW7m)
+> Community moderation, documentation, and support on Fandom & Discord.
 
-Made by [sv_lord5#5555](https://discord.com/users/834888738919153684) with help of [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
-- **Website:** https://about.me/sv_lord5
+- 🧹 Moderator for several private gaming communities
+- 👨‍🚀 Former Admin at **🌟SpaceWaCe Community🌟**
+- 🧠 2+ years of experience in Discord server management
 
-## Discord Profile
+---
 
+## 🧰 Tech Stack
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/834888738919153684)](https://discord.com/users/834888738919153684)
-![Discord Profile](https://mydiscord.tolfix.com/?userId=834888738919153684)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
 
+---
 
+<!-- ## 📊 GitHub Stats
+
+![Anonsv5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svlord5&show_icons=true&theme=dracula&count_private=true&hide=prs,stars)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svlord5&theme=dracula)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=svlord5&theme=dracula&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 -->
