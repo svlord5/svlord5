@@ -17,7 +17,7 @@
 <div align="center">
   <div align="center">
 
-<h2>🧠 About Me</h2>
+<h2>About Me</h2>
 Hi, I'm <strong>Suraj</strong> — a 19-year-old software developer, cybersecurity student, and community manager from <strong>Hyderabad, India</strong>.  
 I'm currently pursuing a <strong>B.Tech in Computer Science (Cybersecurity)</strong>.
 
@@ -28,7 +28,6 @@ I learn best by doing — whether it’s experimenting with <strong>JavaScript, 
 or diving into the world of ethical hacking and infosec through <strong>TryHackMe</strong> and real-world CTF challenges.
 
 Outside of tech, you’ll find me vibing to music on Spotify or connecting with like-minded folks on Discord and X.
-<strong>Let’s build something cool together. 🚀</strong>
 </div>
 
 ---
