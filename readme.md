@@ -1,38 +1,22 @@
-# Hey, welcome 👋
+# 👋 Hey, I’m Suraj (aka sv_lord5)
+Cybersecurity Student • Software Developer
 
-> I'm Suraj (aka **sv_lord5**) — a passionate self-learner, Discord community builder, and software enthusiast from 🇮🇳.
+## About Me
+I’m Suraj, a 19-year-old developer and cybersecurity student who loves building tools that help online communities thrive.
+- Cybersecurity (Purple Teaming, CTFs, TryHackMe, real-world hands-on)
+- Developer with 2+ years building systems for large communities
+- Experience with Discord moderation, automation & infra
+- I learn by building — JS/TS, React, Next.js, Node.js, and security tooling
 
-### 📬 Contact Me
+Outside of code, you’ll find me on Discord chatting with people, vibing to music, or exploring new tech.
 
-- 🎮 **Discord:** [@sv_lord5](https://discord.com/users/834888738919153684)
-- 🐦 **X (Twitter):** [@sv_lord5](https://x.com/sv_lord5)
-- 🎧 **Spotify:** [sv_lord5](https://open.spotify.com/user/kxyloe5tvw4oczmbbe1fi7vcb)
-- ✉️ **Email:** [hi@anonsv5.me](mailto:hi@anonsv5.me)
-- 🌐 **Website:** [anonsv5.me](https://www.anonsv5.me)
+## 📬 Connect with Me
+🌐 [anonsv5.me](https://anonsv5.me) or personally [surajv5.in](https://surajv5.in)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T6S08IM)
-
----
 
 <div align="center">
   <div align="center">
-
-<h2>About Me</h2>
-Hi, I'm <strong>Suraj</strong> — a 19-year-old software developer, cybersecurity student, and community manager from <strong>Hyderabad, India</strong>.  
-I'm currently pursuing a <strong>B.Tech in Computer Science (Cybersecurity)</strong>.
-
-I’m passionate about building tools that improve online communities — from Discord moderation bots to building cybersecurity projects.  
-With over <strong>2 years of experience</strong> managing large-scale Discord servers and contributing to projects like <strong>Dyno</strong>, <strong>Boomerang</strong>, and <strong>Circle</strong>, I love combining development with community-focused problem-solving.
-
-I learn best by doing — whether it’s experimenting with <strong>JavaScript, TypeScript, React, and Node.js</strong>,  
-or diving into the world of ethical hacking and infosec through <strong>TryHackMe</strong> and real-world CTF challenges.
-
-Outside of tech, you’ll find me vibing to music on Spotify or connecting with like-minded folks on Discord and X.
-</div>
-
----
-
-## 🏢 Where I Work / Have Worked
+<h2>Experience</h2>
 
 ### 👨‍💼 [Senior Staff @ Circle](https://circlebot.xyz/)
 > Bringing simple, efficient moderation and automation to Discord communities.  
@@ -50,11 +34,7 @@ Outside of tech, you’ll find me vibing to music on Spotify or connecting with 
 ### 🧑‍💻 Moderator — [Cyberheist Wiki](https://cyberheist.fandom.com/wiki/User:Svlord5) + [Discord](https://discord.gg/maSFWdPW7m)
 > Community moderation, documentation, and support on Fandom & Discord.
 
-- 🧹 Moderator for several private gaming communities
-- 👨‍🚀 Former Admin at **🌟SpaceWaCe Community🌟**
-- 🧠 2+ years of experience in Discord server management
-
----
+</div>
 
 ## 🧰 Tech Stack
 
@@ -65,12 +45,3 @@ Outside of tech, you’ll find me vibing to music on Spotify or connecting with 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
-
----
-
-<!-- ## 📊 GitHub Stats
-
-![Anonsv5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svlord5&show_icons=true&theme=dracula&count_private=true&hide=prs,stars)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svlord5&theme=dracula)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=svlord5&theme=dracula&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
--->
