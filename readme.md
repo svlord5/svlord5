@@ -11,7 +11,7 @@ I’m Suraj, a 19-year-old developer and cybersecurity student who loves buildin
 Outside of code, you’ll find me on Discord chatting with people, vibing to music, or exploring new tech.
 
 ## 📬 Connect with Me
-🌐 [anonsv5.me](https://anonsv5.me) or personally [surajv5.in](https://surajv5.in)
+🌐 [anonsv5.rocks](https://anonsv5.rocks) or personally [surajv5.in](https://surajv5.in)
 
 
 <div align="center">
